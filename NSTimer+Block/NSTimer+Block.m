@@ -3,7 +3,6 @@
 //  yixin_iphone
 //
 //  Created by PanFengfeng  on 14-3-12.
-//  Copyright (c) 2014年 Netease. All rights reserved.
 //
 
 #import "NSTimer+Block.h"
