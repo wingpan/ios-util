@@ -1,8 +1,6 @@
 //
 //  NSTimer+Block.h
-//  yixin_iphone
 //
-//  Created by PanFengfeng  on 14-3-12.
 //
 
 /**

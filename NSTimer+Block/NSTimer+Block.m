@@ -1,8 +1,5 @@
 //
 //  NSTimer+Block.m
-//  yixin_iphone
-//
-//  Created by PanFengfeng  on 14-3-12.
 //
 
 #import "NSTimer+Block.h"
